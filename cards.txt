@@ -1,0 +1,6 @@
+What is your name?:Cup, Emily
+Where do you work?:Panera Bread
+Do you want caffeine?:Yes
+Do you want weed?:Yes
+Who do you love the most?:babs<3
+Where do you want to move?:Boston
